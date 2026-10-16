@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,161b22,30363d&height=220&section=header&text=Kiacoder&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=220&section=header&text=Kiacoder&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=7EE7D8" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=900&color=888888&center=true&vCenter=true&width=680&lines=Network+Security+%26+Bypass+Toolkit;Builder+of+Blackout+Kit;Python+%2B+Go+engineer;Defender+of+the+open+internet" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=900&color=7EE7D8&center=true&vCenter=true&width=680&lines=Network+Security+%26+Bypass+Toolkit;Builder+of+Blackout+Kit;Python+%2B+Go+engineer;Defender+of+the+open+internet" alt="typing"/>
 
 <p>
-  <img src="https://img.shields.io/badge/Location-Earth-888888?style=flat-square" alt="location"/>
-  <img src="https://img.shields.io/badge/Focus-Network%20tooling-888888?style=flat-square" alt="focus"/>
-  <img src="https://img.shields.io/badge/Open--Source-MIT-888888?style=flat-square" alt="license"/>
+  <img src="https://img.shields.io/badge/Location-Iran...%20Tehran...-7EE7D8?style=flat-square" alt="location"/>
+  <img src="https://img.shields.io/badge/Focus-Network%20tooling-203A43?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/Open--Source-MIT-7EE7D8?style=flat-square" alt="license"/>
 </p>
 
 </div>
@@ -85,6 +85,6 @@ I maintain **[Blackout Kit](https://github.com/kiacoder/blackout-kit)** — an o
 
 <div align="center">
 
-*Made by Kiacoder — for people who just want a working internet connection.*
+*Kiarash Zare*
 
 </div>
