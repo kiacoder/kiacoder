@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=custom&color_snake=#000000&color_dots=#d0d0d0,#a0a0a0,#606060,#000000&color_empty=#ffffff&color_bg=#ffffff&color_text=#000000
+            dist/github-contribution-grid-snake-dark.svg?palette=custom&color_snake=#ffffff&color_dots=#30363d,#8b949e,#c9d1d9,#ffffff&color_empty=#0d1117&color_bg=#0d1117&color_text=#ffffff
 
       - name: publish to output branch
         uses: peaceiris/actions-gh-pages@v4

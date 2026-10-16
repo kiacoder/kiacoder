@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=220&section=header&text=Kiacoder&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=7EE7D8" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,161b22,30363d&height=220&section=header&text=Kiacoder&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=900&color=7EE7D8&center=true&vCenter=true&width=680&lines=Network+Security+%26+Bypass+Toolkit;Builder+of+Blackout+Kit;Python+%2B+Go+engineer;Defender+of+the+open+internet" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=900&color=888888&center=true&vCenter=true&width=680&lines=Network+Security+%26+Bypass+Toolkit;Builder+of+Blackout+Kit;Python+%2B+Go+engineer;Defender+of+the+open+internet" alt="typing"/>
 
 <p>
-  <img src="https://img.shields.io/badge/Location-Earth-7EE7D8?style=flat-square" alt="location"/>
-  <img src="https://img.shields.io/badge/Focus-Network%20tooling-203A43?style=flat-square" alt="focus"/>
-  <img src="https://img.shields.io/badge/Open--Source-MIT-7EE7D8?style=flat-square" alt="license"/>
+  <img src="https://img.shields.io/badge/Location-Earth-888888?style=flat-square" alt="location"/>
+  <img src="https://img.shields.io/badge/Focus-Network%20tooling-888888?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/Open--Source-MIT-888888?style=flat-square" alt="license"/>
 </p>
 
 </div>
@@ -20,7 +20,11 @@ I maintain **[Blackout Kit](https://github.com/kiacoder/blackout-kit)** — an o
 
 <div align="center">
 
-[![Blackout Kit](https://github-readme-stats-pi-eight-18.vercel.app/api/pin/?username=kiacoder&repo=blackout-kit&theme=tokyonight&hide_border=true)](https://github.com/kiacoder/blackout-kit)
+<a href="https://github.com/kiacoder/blackout-kit"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pi-eight-18.vercel.app/api/pin/?username=kiacoder&repo=blackout-kit&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=30363d" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pi-eight-18.vercel.app/api/pin/?username=kiacoder&repo=blackout-kit&hide_border=true&bg_color=ffffff&text_color=000000&title_color=000000&icon_color=000000&border_color=d0d0d0" />
+  <img alt="Blackout Kit" src="https://github-readme-stats-pi-eight-18.vercel.app/api/pin/?username=kiacoder&repo=blackout-kit&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=30363d" />
+</picture></a>
 
 </div>
 
@@ -36,9 +40,21 @@ I maintain **[Blackout Kit](https://github.com/kiacoder/blackout-kit)** — an o
 
 <div align="center">
 
-<img src="https://github-readme-stats-pi-eight-18.vercel.app/api?username=kiacoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kiacoder&theme=tokyonight&hide_border=true" height="180" alt="streak"/>
-<img src="https://github-readme-stats-pi-eight-18.vercel.app/api/top-langs/?username=kiacoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="top langs"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pi-eight-18.vercel.app/api?username=kiacoder&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=30363d" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pi-eight-18.vercel.app/api?username=kiacoder&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff&text_color=000000&title_color=000000&icon_color=000000&border_color=d0d0d0" />
+  <img alt="stats" src="https://github-readme-stats-pi-eight-18.vercel.app/api?username=kiacoder&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=30363d" height="180" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kiacoder&background=0d1117&border=30363d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kiacoder&background=ffffff&border=d0d0d0&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" />
+  <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kiacoder&background=0d1117&border=30363d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="180" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pi-eight-18.vercel.app/api/top-langs/?username=kiacoder&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=30363d" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pi-eight-18.vercel.app/api/top-langs/?username=kiacoder&layout=compact&hide_border=true&langs_count=8&bg_color=ffffff&text_color=000000&title_color=000000&icon_color=000000&border_color=d0d0d0" />
+  <img alt="top langs" src="https://github-readme-stats-pi-eight-18.vercel.app/api/top-langs/?username=kiacoder&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=30363d" height="180" />
+</picture>
 
 </div>
 
