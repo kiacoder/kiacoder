@@ -46,8 +46,11 @@ I maintain **[Blackout Kit](https://github.com/kiacoder/blackout-kit)** — an o
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kiacoder/kiacoder/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-<img src="https://raw.githubusercontent.com/kiacoder/kiacoder/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake animation dark" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiacoder/kiacoder/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiacoder/kiacoder/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/kiacoder/kiacoder/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
