@@ -20,7 +20,7 @@ I maintain **[Blackout Kit](https://github.com/kiacoder/blackout-kit)** — an o
 
 <div align="center">
 
-[![Blackout Kit](https://github-readme-stats.vercel.app/api/pin/?username=kiacoder&repo=blackout-kit&theme=tokyonight&hide_border=true)](https://github.com/kiacoder/blackout-kit)
+[![Blackout Kit](https://github-readme-stats-pi-eight-18.vercel.app/api/pin/?username=kiacoder&repo=blackout-kit&theme=tokyonight&hide_border=true)](https://github.com/kiacoder/blackout-kit)
 
 </div>
 
@@ -36,9 +36,9 @@ I maintain **[Blackout Kit](https://github.com/kiacoder/blackout-kit)** — an o
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kiacoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats"/>
+<img src="https://github-readme-stats-pi-eight-18.vercel.app/api?username=kiacoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiacoder&theme=tokyonight&hide_border=true" height="180" alt="streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiacoder&layout=compact&theme=tokyonight&hide_border=true&hide=swift,cuda" height="180" alt="top langs"/>
+<img src="https://github-readme-stats-pi-eight-18.vercel.app/api/top-langs/?username=kiacoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="top langs"/>
 
 </div>
 
